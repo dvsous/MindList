@@ -2,8 +2,6 @@
 
 MindList is a desktop application developed in Python using CustomTkinter that allows you to manage notes and tasks in a practical and visual way.
 
-My profiles: [LinkedIn](https://www.linkedin.com/in/hnrsous/) - [GitHub](https://github.com/hnrsous)
-
 ## Features:
 
 • Create, view, and delete notes.
